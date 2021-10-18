@@ -1,0 +1,86 @@
+h2{
+    text-align:center;
+    color:Red;
+  }
+  #container{
+    border:2px solid black;
+    width:50%;
+    margin:auto;
+    border-radius:5px;
+  }
+  input,button{
+    width:60%;
+    margin:5px auto;
+    border:2px solid black;
+    border-radius:4px;
+    padding:4px;
+    
+  }
+  button{
+    width:42%;
+    padding:1%;
+    background-color:orange;
+  }
+  #box{
+    padding:10px;
+    display:flex;
+    flex-direction:column;
+    background-color:teal;
+  }
+  input[type="submit"] {
+    background: Orange;
+  }
+  input[type="submit"]:hover {
+    background: #8DC26F;
+  }
+  label {
+    text-indent: -15px;
+    align:left;
+  }
+  b:hover {
+    color: Orange;
+  }
+  
+
+
+
+
+/* login form */
+  
+h2{
+    text-align:center;
+    color:red;
+  }
+  #container{
+    border:2px solid black;
+    width:50%;
+    margin:auto;
+    border-radius:5px;
+  }
+  input,button{
+    width:60%;
+    margin:5px auto;
+    border:2px solid black;
+    border-radius:4px;
+    padding:4px;
+    
+  }
+  button{
+    width:42%;
+    padding:1%;
+    background-color:orange;
+  }
+  #box{
+    padding:10px;
+    display:flex;
+    flex-direction:column;
+    background-color:teal;
+  }
+  input[type="submit"] {
+    background: orange;
+  }
+  input[type="submit"]:hover {
+    background: green;
+  }
+  
+  
