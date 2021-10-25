@@ -38,7 +38,7 @@ command to run if program contains helper info
 
 ## Authors
 
-@Rameshwar 
+[@Rameshwar](https://github.com/rcmangnale)
 
 ## License
 
