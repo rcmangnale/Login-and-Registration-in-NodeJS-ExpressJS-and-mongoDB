@@ -26,6 +26,9 @@ i Created login and registration form using nodejs and store data in mongodb
 ### Executing program
 
 * npm init
+* npm i mongoose
+* npm i express
+* npm i handelbar
 * connect with nodeJS
 * connect with mongoDB
 ```
