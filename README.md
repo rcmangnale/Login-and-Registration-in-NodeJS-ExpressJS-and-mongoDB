@@ -18,7 +18,7 @@ i Created login and registration form using nodejs and store data in mongodb
 * nodeJS
 * mongoDB
 * handelbar
-* visual studio code
+
 
 ### Installing
 
